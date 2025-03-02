@@ -1,10 +1,10 @@
 # Firebase Authentication with React
 
-![React](https://img.shields.io/badge/React-18.3.1-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue)
-![Firebase](https://img.shields.io/badge/Firebase-10.8.0-orange)
-![Vite](https://img.shields.io/badge/Vite-5.4.2-purple)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.1-38B2AC)
+![React](https://img.shields.io/badge/React-19.0.1-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.7.2-blue)
+![Firebase](https://img.shields.io/badge/Firebase-11.4.0-orange)
+![Vite](https://img.shields.io/badge/Vite-6.2.0-purple)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0.9-38B2AC)
 
 A modern, responsive authentication system built with React, TypeScript, Firebase, and Tailwind CSS. This project provides a complete authentication flow with login, registration, and user dashboard functionality.
 
@@ -27,16 +27,6 @@ A modern, responsive authentication system built with React, TypeScript, Firebas
   - Protected Routes with React Router
   - Secure Context API Implementation
 
-## 📸 Screenshots
-
-### Login Page
-![Login Page](https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80)
-
-### Registration Page
-![Registration Page](https://images.unsplash.com/photo-1618044733300-9472054094ee?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80)
-
-### Dashboard
-![Dashboard](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80)
 
 ## 🛠️ Technologies Used
 
@@ -213,7 +203,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-Your Name - [GitHub Profile](https://github.com/Kameshwaran-E)
+Kameshwaran - [GitHub Profile](https://github.com/Kameshwaran-E)
 
 ## 🙏 Acknowledgements
 
